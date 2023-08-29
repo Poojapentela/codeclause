@@ -1,0 +1,29 @@
+textarea {
+            padding: 4%;
+            border-color: black;
+            border-width: thick;
+           
+        }
+.here {
+            display: flex;
+            justify-content: center;
+        }
+ h1
+ {
+  text-align: center;
+ }
+ hr
+{
+	border-color: darkred;
+}          
+ input {
+            margin: 10px;
+           margin-bottom: 25px;
+           text-align: center;
+           align-content: center;
+        }
+          
+input:hover {
+            background-color: #fec8d8 !important;
+        }
+
